@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Aditya Chauhan</h1>
-<h3 align="center">A passionate Associate Software Engineer at Red Hat</h3>
+<h3 align="center">A passionate  Software Engineer at Red Hat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyp3riongr3y&label=Profile%20views&color=0e75b6&style=flat" alt="hyp3riongr3y" /> </p>
 
